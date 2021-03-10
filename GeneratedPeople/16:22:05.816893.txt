@@ -1,0 +1,77 @@
+###### Your Results Are: ######
+Name: Hon. Amal Anya Yamamoto-Basumatary, II.
+Citizen ID Num: 77784E33DDE0D9B8
+First initial: A, Last initial: Y.
+Gender: male. Pronouns: they/them.
+DOB: May 26, 1993 - Age: 28 years.
+Birthplace: Helliconia .
+Primary Citizenship: Kepler-705b
+Associate Citizenship(s): ['None'].
+Star Sign: Gemini.
+------------------------------------------------
+Height: 96.00 cm.
+Mass:  25.80 kg.
+Beliefs: No strong philosophical or religious beliefs..
+Political Party membership: Best Party
+Relationship Status: 1 loving partner(s). 
+Children: None.
+Known allergies: dust mites.
+Blood type: B ₚₒₛ
+You are afraid of peanut butter.
+Prexisting Health Conditions: Thyroid Trouble controlled with diet & medication.
+Dietary Restrictions: Omnivore.
+Hobbies: Water polo and Sledding.
+Languages: Xiang Chinese, Uyghur, Toki Pona and Brithenig.
+Occupation: Postal Service Clerks.
+Security Clearance: None.
+Criminal Record: No Criminal Convictions.
+Arrest Record: No Arrests on File.
+Warrants: No Active Warrants..
+Networth: ¥1608781.14.
+Credit Score: 785.
+Professional Assn: Microsoft Certified Solutions Developer
+Highest Education Achieved: Secondary School.
+Last School Attended: St Sebastian's University.
+------------------------------------------------
+Your:
+        Childhood home was on Fernhill Springs.
+        First pet's name was Jem.
+        Childhood best-friend's name is Robert'); DROP TABLE students;-- Tahir.
+        First vehicle:  Ultima.
+        Mother's maiden name: Ngo.
+        Fursona: Weasel.
+        Fighting Style: Aka.
+        Superpower is: The ability to expel a cotton ball from your wrist three times a month.
+------------------------------------------------
+Your favourite/preferred:
+        Colour is: French blue - #0072BB.
+        Food is: Roast chicken.
+        Ice Cream is: Milk Chocolate Almond.
+        Poem is: The Rear-Guard - Siegfried Sassoon.
+        Flower is: Blanket Flower.
+        Sleepwear is: boxer briefs.
+        Homestar Runner Character: The Blacksmith.
+        Superhero is: The Defenders.
+        Social Media Network is: User Friendly.
+        Season is: Autumn.
+        Tree is: Magnolia emarginata [38].
+        Emoji is: 😣.
+        Spectator Sport: Track And Field.
+        Cryptid is: Altamaha-ha.
+        Simpsons Character is: Sideshow Bob
+        Element is: Thorium - Th
+        Song is: Pride (In the Name of Love) by U2.
+        Holiday is: New Year.
+        SCP is: SCP-536 - Physical Law Testing Chamber.
+        Album is: Jagged Little Pill by Alanis Morissette.
+        Steak doneness: Shoe Leather - 6.
+        Toast Doneness: White - 0.
+        Hot Beverage: Earl Grey, hot.
+        Tea/Coffee Colour: D
+        Soda is: Slim ( Orange ).
+        Movie is: Avatar.
+        Programming Language is: Emerald.
+        Animal is: Horse.
+        Pokemon is: 278 Wingull.
+        Book is: Oliver Twist by Charles Dickens.
+------------------------------------------------
