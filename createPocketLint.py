@@ -18,6 +18,10 @@ else:
     thisYear = todays_date.year#define the current year for age calculation
 ageMin = 13 # set the minimum possible age here
 ageMax = 120 #set the maximum possible age here
+random_hour = random.uniform(1, 2.5)
+given_time = datetime.datetime.utcnow()
+new_time = given_time + datetime.timedelta(hours=random_hour)
+time = new_time.strftime("%H:%M:%S")
 minBirthYr = thisYear-ageMin#set min birth year - this is used to avoid generating any profiles younger than the typical social media minimum TOS age.
 maxBirthYr = thisYear-ageMax#set max birth year
 streets = "ukStreets.csv"#filename of street database csv (currently pulled from a 1k list of random UK street names)
@@ -431,6 +435,7 @@ print("Citizen ID Num: "+idNum)
 print("First initial: "+firstnm[0]+","+" Last initial: "+thirdnm[0]+".")
 print("Gender: "+gender+". Pronouns: "+pronoun+".")
 print("DOB: "+str(month_name),str(day)+", "+str(year)+" - Age: "+str(age), "years.")
+print("Birth Time:", time)
 print("Birthplace: "+planet+".")
 print("Primary Citizenship: "+country)
 print("Associate Citizenship(s): "+str(citlist)+".")
